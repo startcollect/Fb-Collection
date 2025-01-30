@@ -10,8 +10,8 @@ list tool hack fb
 
 # Installation
 ```
-https://github.com/startcollect/Fb-Collection.git
-cd Ddos-Collection
+git clone https://github.com/startcollect/Fb-Collection.git
+cd Fb-Collection
 python3 main.py
 ```
 
