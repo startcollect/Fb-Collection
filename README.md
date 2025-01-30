@@ -10,7 +10,7 @@ list tool hack fb
 
 # Installation
 ```
-git clone https://github.com/startcollect/Ddos-Collection.git
+https://github.com/startcollect/Fb-Collection.git
 cd Ddos-Collection
 python3 main.py
 ```
